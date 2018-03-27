@@ -8,7 +8,10 @@
   },
   "author": "朱阳星",
   "email": "zhuyangxing@foxmail.com",
-  "github": "https://github.com/openks/remove-duplicate-object-by-attr.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openks/remove-duplicate-object-by-attr.git"
+  },
   "keywords": ["remove","array","obect","property"],
   "license": "ISC"
 }
