@@ -31,7 +31,7 @@ function removeDuplicateObjectByAttr(arr, attr) {
   let arr2 = []
   arr.forEach(ele => {
     if (ele[attr] === undefined) {
-      throw new Error(JSON.stringify(ele) + " has no " + attr + ' attribute')
+      console.warn(JSON.stringify(ele) + " has no " + attr + ' attribute');
     } else {
       if (!set.has(ele[attr])) {
         set.add(ele[attr])

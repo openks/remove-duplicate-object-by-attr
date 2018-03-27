@@ -1,6 +1,6 @@
 {
   "name": "remove-duplicate-object-by-attr",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "remove duplicate object from array by attr from an array and return a new array",
   "main": "index.js",
   "scripts": {
