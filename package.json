@@ -1,0 +1,14 @@
+{
+  "name": "remove-duplicate-object-by-attr",
+  "version": "1.0.0",
+  "description": "remove duplicate object from array by attr from an array and return a new array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "朱阳星",
+  "email": "zhuyangxing@foxmail.com",
+  "github": "https://github.com/openks/remove-duplicate-object-by-attr.git",
+  "keywords": ["remove","array","obect","property"],
+  "license": "ISC"
+}
